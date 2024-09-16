@@ -50,7 +50,7 @@ Here is a comparison of the performance across different models (Random Forest, 
 
 This is a simulation of Falcon 9 rocket launches, showing the success, partial success, and failure outcomes based on risk factors such as payload mass and orbit type.
 
-![Falcon 9 Launch Simulation](img/launch_simulation.gif)
+![Falcon 9 Launch Simulation](images/launch_simulation_Eng.gif)
 
 
 ## Future Work
