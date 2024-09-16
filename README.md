@@ -6,6 +6,7 @@ This project uses machine learning models to predict the success of Falcon 9 roc
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Features](#features)
 - [Models Used](#models-used)
 - [Results](#results)
@@ -16,6 +17,10 @@ This project uses machine learning models to predict the success of Falcon 9 roc
 
 ## Introduction
 Predicting the success of Falcon 9 rocket landings using various machine learning algorithms including Logistic Regression, Random Forest, Gradient Boosting, and Neural Networks. The dataset includes technical details about the rocket launches and uses the SMOTE technique to balance the dataset.
+
+## Dataset
+
+The dataset used in this project is sourced from the [IBM Data Science Capstone - SpaceX Dataset](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/dataset_part_2.csv). It contains key features such as payload mass, orbit type, launch site, and booster reuse, which are used to predict the success of the Falcon 9 first-stage rocket landings. To handle the class imbalance in the dataset, the SMOTE technique was applied to ensure better model performance.
 
 ## Features
 - Data preprocessing and feature engineering
