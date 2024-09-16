@@ -37,7 +37,7 @@ Predicting the success of Falcon 9 rocket landings using various machine learnin
 | Logistic Regression   | 88.89%   | 89%       | 89%    | 89%      | 75%               | 75%            | 93%               | 93%            |
 | Random Forest         | 83.33%   | 90%       | 83%    | 85%      | 57%               | 100%           | 100%              | 79%            |
 | Gradient Boosting     | 72.22%   | 88%       | 72%    | 75%      | 44%               | 100%           | 100%              | 64%            |
-| Neural Networks       | 77.78%   | 83%       | 78%    | 68%      | 100%              | 0%             | 78%               | 100%           |
+| Neural Networks       | 22.22%   | 83%       | 22%    | 18%      | 22%               | 100%           | 100%              | 0%             |
 
 
 ## Model Performance Comparison
